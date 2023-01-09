@@ -1,4 +1,8 @@
 
+.xpWork {
+    align-items: center;
+}
+
 @media (max-width: 576px){
     .icono-wrap{
         flex-wrap: wrap;
